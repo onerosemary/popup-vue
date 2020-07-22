@@ -1,4 +1,4 @@
-# vue-pay-keyboard
+# popup-vue
 
 A Vue component to popup-vue
 一个基于vue的弹窗组件
