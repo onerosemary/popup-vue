@@ -15,7 +15,7 @@ npm install popup-vue -S
 
 ```js
 // ES6
-import popupVue from 'popup-vue.js'
+import popupVue from 'popup-vue'
 // require
 var popupVue = require('popupVue')
 
